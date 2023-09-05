@@ -23,4 +23,4 @@ MySQL8_Analyt_SQL_Norah_Lu.sql
    * Exercise window functions including RANK, WINDOW, OVER, PARTITION BY, ROWS BETWEEN, LAG, and LEAD
 
 MySQL9_Python_SQL.sql & MySQL9_Python_SQL_Norah_Lu.py
-   * Python and SQL Connectivity
+   * Connect Python and SQL
